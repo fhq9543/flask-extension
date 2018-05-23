@@ -1,0 +1,7 @@
+Flask_Bootstrap==3.3.7.1
+Flask_Script==2.0.6
+Flask_WTF==0.14.2
+Flask_Moment==0.6.0
+Flask_Mail==0.9.1
+Flask==0.12.2
+WTForms==2.1
